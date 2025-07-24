@@ -24,6 +24,4 @@ Hi! I’m **Gauri Kotiwale** (गौरी कोटीवाले), a PhD stud
 - [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0009-0007-1062-0253](https://orcid.org/0009-0007-1062-0253)
 - [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) GauriKotiwale](https://github.com/Gauri0002)
 
-> “Reserve your right to think, for even to think wrongly is better than not to think at all.”
-
 ---
