@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hypatia of Alexandria
-email: ttalbertott@gmail.com
+title: Gauri Kotiwale
+email: gauri.kotiwale@ista.ac.at
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Hypatia of Alexandria, Astronomer, philosopher and mathematician.
+  Personal website of Gauri Kotiwake.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  atorralbt
+github_username:  Gauri0002
 
 # Build settings
 # theme: minima
@@ -36,8 +36,7 @@ index_page: "about-me"
 # Navigation bar links
 navbar-links:
   Home: "/"
-  Publications: "Publications"
-  Posters: "Posters"
+
   
 
 # Image to show in the navigation bar - works best with a square image
@@ -51,18 +50,18 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hypatia.alexandria@ista.ac.at"
+  email: "gauri.kotiwale@ista.ac.at"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: hypatiarules
-  github: hypatiarules
+  github: Gauri0002
 # twitter: xx
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "#ADD8E6"
+text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 navbar-col: "#EAEAEA"
