@@ -60,7 +60,7 @@ social-network-links:
 #  whatsapp: 15551212
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-page-col: "#ADD8E6"
+page-col: "#FFFFFF"
 text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#0085A1"
