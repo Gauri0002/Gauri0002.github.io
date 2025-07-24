@@ -14,8 +14,11 @@ cover-img:
 
 Hi! I’m **Gauri Kotiwale** (गौरी कोटीवाले), a PhD student at the Institute of Science and Technology Austria (ISTA). My research focuses on the chemical enrichment and stellar populations of galaxies in the early Universe through the study of their rest-optical and rest-UV spectra. I come from Pune, India and have completed my Bachelor's and Master's in Physics at the Indian Institute of Science Education and Research, Bhopal.
 
-
+<img src="assets/images/file-hypatia-by-julius-kronberg-1889-1608099105.jpg" alt="Hypatia of Alexandria" width="300" height="200">
+<!---
 ![Hypatia of Alexandria](assets/images/file-hypatia-by-julius-kronberg-1889-1608099105.jpg)
+
+-->
 
 ## Connect with Me
 
