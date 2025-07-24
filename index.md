@@ -7,7 +7,7 @@ share-title: "Hypatia of Alexandria - Home"
 share-description: "PhD student. Extragalactic Astronomy."
 support-promo-box: true
 cover-img:
-    - "assets/images/Hypatia-Teaching-Alexandria-watercolour-paper-Robert-Trewick.jpg"
+    - "assets/images/1.jpg"
 ---
 
 # About me
