@@ -1,10 +1,10 @@
 ---
 layout: home
 
-title: "Hypatia of Alexandria"
-subtitle: Astronomer, Philosopher, Mathematician
+title: "Gauri Kotiwale of Pune, India"
+subtitle: Astrophysicist
 share-title: "Hypatia of Alexandria - Home"
-share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
+share-description: "PhD student. Extragalactic Astronomy."
 support-promo-box: true
 cover-img:
     - "assets/images/Hypatia-Teaching-Alexandria-watercolour-paper-Robert-Trewick.jpg"
