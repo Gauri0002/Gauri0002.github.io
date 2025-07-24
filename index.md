@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: "Gauri Kotiwale of Pune, India"
-subtitle: Astrophysicist
+title: "Gauri Kotiwale"
+subtitle: PhD student at ISTA. Observational Extragalactic Astronomy,
 share-title: "Hypatia of Alexandria - Home"
 share-description: "PhD student. Extragalactic Astronomy."
 support-promo-box: true
 cover-img:
-    - "assets/images/1.jpg"
+    - "assets/images/J0100_waterpaint.jpg"
 ---
 
 # About me
