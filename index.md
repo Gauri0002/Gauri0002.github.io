@@ -12,7 +12,7 @@ cover-img:
 
 # About me
 
-Hi! I’m **Gauri Kotiwale** (गौरी कोटीवाले), a PhD student at the Institute of Science and Technology Austria (ISTA). My research focuses on the chemical enrichment and stellar populations of galaxies in the early Universe through the study of their rest-optical and rest-UV spectra. I come from Pune, India and have completed my Bachelor's and Master's in Physics at the Indian Institute of Science Education and Research, Bhopal.
+Hi! I’m **Gauri Kotiwale** (गौरी कोटीवाले), a PhD student at the Institute of Science and Technology Austria (ISTA). My research focuses on understanding the chemical enrichment and stellar populations of galaxies in the early Universe through the study of their rest-optical and rest-UV spectra. I come from Pune, India and, have completed my Bachelor's and Master's in Physics at the Indian Institute of Science Education and Research, Bhopal.
 
 <img src="assets/images/profile_picture_Gauri_compressed.jpeg" alt="Gauri Kotiwale" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 1rem auto;">
 
